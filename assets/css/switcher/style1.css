@@ -1,0 +1,63 @@
+#style-switcher h2 a { background: #03a9f4 none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {
+	background: #f00e67 none repeat scroll 0 0;
+}
+.topcontrol:hover{
+	background-color: #f82;
+}
+/*END SCROLL TO TOP*/
+
+
+/*START MENU*/
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #f00e67 !important;
+    background-color: transparent;
+}
+.menu-top li a:hover { color: #f00e67!important }
+.navbar-default.menu-shrink li a:hover { color: #f00e67 !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #f00e67 }
+/*END MENU*/
+
+
+	
+.section-title .sec_icon:after,
+.section-title .sec_icon:before ,
+.section-title .sec_icon span,
+.single_about i:hover,
+.progress-bar > span,
+.pricing-list li i
+
+ {
+	background: #f82;
+}	
+
+
+.carousel-control:hover,
+.btn-home-border:hover, .btn-home-border:focus,
+.our_work_menu ul li:hover, 
+.our_work_menu ul li.active,
+.video-container a:hover,
+.social_link ul a,
+.btn-light-bg,
+.pricing-btn button,
+.btn-contact-bg {
+	background: #f00e67;
+	border-color: #f00e67;
+}
+.single_testimonial .avatar img,
+.contact input:focus,
+.contact textarea:focus{
+	border-color: #03a9f4;
+}
+.single_about i,
+.skill_list,
+.single_feature .feat_number,
+.single_service i,
+.testimonials_area h5,
+.home_blog_text i{
+	color: #f00e67;
+}
